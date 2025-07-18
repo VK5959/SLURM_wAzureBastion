@@ -92,7 +92,7 @@ munge -n | unmunge
 ## SLURM Setup
 ### Work in Porgress
 
-## Remote SSH from local to SLURM cluster through Azure Bastion VM
+## SSH connection setup Local-AzureBastionVM-Slurm cluster via reverse SSH tunnel
 ### Create SSH config file (Windows/Linux)
 
 Create `~/.ssh/config`
