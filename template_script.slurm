@@ -5,9 +5,9 @@
 #SBATCH --ntasks=1
 
 source /etc/profile.d/modules.sh
-module purge
+module purge                     # to clear previously loaded modules
 module use /shared/apps/modules
-module load pytorch/2.7.0
+module load pytorch/2.7.0       # or tensorflow/2.19.0
 
 # Your script below
 
