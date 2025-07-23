@@ -4,3 +4,4 @@ This setup is due to Slurm cluster lacking public IP-address. To address this is
 
 - [Installation and Setup](https://github.com/VK5959/SLURM_wAzureBastion/wiki/Slurm-Installation-and-Setup)
 - [SSH Tunnel Setup](https://github.com/VK5959/SLURM_wAzureBastion/wiki/SSH-Tunnel-Setup-(Through-Azure-Bastion-VM))
+- [Common Commands](https://github.com/VK5959/SLURM_wAzureBastion/wiki/Common-Commands-for-SLURM-cluster)
